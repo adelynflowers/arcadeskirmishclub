@@ -24,6 +24,10 @@ For the escalation league, yes! We maintain a list of our recommended 3D printin
 
 Yes, prizes will be awarded for several categories. See [Awards](#awards) for more details.
 
+**Can I use minis I've already built/painted?**
+
+Yes. The main audience of this league is looking to build and paint a full army they don't already have, but you can participate in whatever way you see fit. That being said, models that you build/painted before the league won't be eligible for building/painting points.
+
 ## Participating in the League
 
 ### Choose a Game and Army
@@ -36,7 +40,7 @@ Once you’ve committed, it’s time to make sure you’re stocked up for all th
 
 ### Start Hobbying
 
-With your entry fee paid and the materials prepared to amass your army, you can start hobbying! See the details for your specific game for next steps.
+With the materials prepared to amass your army, you can start hobbying! See the details for your specific game for next steps.
 
 ## Game Specific Rules
 
