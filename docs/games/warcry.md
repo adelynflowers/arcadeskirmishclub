@@ -7,6 +7,7 @@
 
 - [discord.gg/xepherarcade](https://discord.gg/xepherarcade): The Xepher Arcade discord
 - [Warcrier.net](https://warcrier.net): Rules and list builder
+- [Warcry matched play battlepack](https://assets.warhammer-community.com/eng_05-11_warcry_matched_play_battlepack-b83zcegpsg-e7zhpxwiut.pdf): The official matched play rules and battleplans
 - [Tidal Pack 2 Mission Pack](https://docs.google.com/spreadsheets/d/1ImCp-sf2Uz_TbZ6CB4HRozURePqr0WBaT_DUDcOQbGg/edit?gid=780513126#gid=780513126): A mission pack designed for fun and balanced games
 - [Google sheets narrative play roster](https://docs.google.com/spreadsheets/d/13g6liQuS--DBJOHM3YUvKUDqLro6sUmCcfOf6i2g-V0/edit): For tracking your narrative warband's progress
 - [Off Meta Musings Warcry Resources](https://www.offmetamusings.com/p/warcry-content-from-around-internet.html): The best compilation of warcry resources available
@@ -29,7 +30,7 @@ If you're more willing to spend money on crafting a specific team, you can build
 
 ### Listbuilding
 
-At Xepher we follow the convention of using the optional rules of Bladeborn Fighters, Battle Traits, and Divine Blessings. A quick rundown of list building:
+We play according to matched play battlepack rules. You can find the battlepack in the [Useful Resources section](#useful-resources), with full list building rules available on [warcrier.net](https://warcrier.net).
 
 1. Choose a faction.
 2. Choose up to three heroes from that faction.
