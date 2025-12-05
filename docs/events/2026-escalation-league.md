@@ -4,6 +4,12 @@ The Arcade Skirmish Club is proud to be holding its first escalation league! Thi
 
 ## Important Info
 
+**How can I submit my progress?**
+
+Hobby progress form: [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdRrq7vqRkGsO2M-n4Q3GzO3oejZRWmftndbBw-1cLLYlKQjA/viewform?usp=dialog)
+
+Match report form: [Click here](https://docs.google.com/forms/d/e/1FAIpQLScmsOAKAbe08R3fgBQYzK-Gmp_hliWD-rMigI0kWTJkstITmQ/viewform?usp=dialog)
+
 **When is it?**
 
 January 1st - July 1st, 2026
@@ -110,7 +116,7 @@ For help with choosing a faction and listbuilding, DM adelyn on discord for an i
 
 #### Game Nights
 
-We will be running 2 game nights a month specifically for escalation league participants. If you can't make the game nights, ping the Age of Sigmar role in discord to see if someone can meet on your schedule. Check back in 2026 for scheduling details!
+We will be running 2 game nights a month specifically for escalation league participants. If you can't make the game nights, ping the Age of Sigmar role in discord to see if someone can meet on your schedule. We will be playing every other wednesday, check the Xepher calendar for more details.
 
 #### Timeline
 - **2/1/26**
@@ -139,7 +145,9 @@ We will be running 2 game nights a month specifically for escalation league part
 
 ## Scoring Rubric and Awards
 
-Check back in 2026 for the link to submit your monthly progress!
+Hobby progress form: [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdRrq7vqRkGsO2M-n4Q3GzO3oejZRWmftndbBw-1cLLYlKQjA/viewform?usp=dialog)
+
+Match report form: [Click here](https://docs.google.com/forms/d/e/1FAIpQLScmsOAKAbe08R3fgBQYzK-Gmp_hliWD-rMigI0kWTJkstITmQ/viewform?usp=dialog)
 
 ### Earning points
 
