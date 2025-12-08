@@ -12,3 +12,4 @@ Generally you want miniatures printed in resin and terrain printed in FDM, but t
 | tcbrandt         | Yes    | Yes  |
 | danwiththevans   | No     | Yes  |
 | joebadmemes      | No     | Yes  |
+| mizukagedrac      | Yes   | Yes   |
