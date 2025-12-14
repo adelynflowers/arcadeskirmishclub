@@ -6,6 +6,7 @@ theme:
     - navigation.sections
     - navigation.expand
   name: material
+  custom_dir: overrides
   palette:
     primary: "deep purple"
 markdown_extensions:

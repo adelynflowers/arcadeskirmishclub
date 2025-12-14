@@ -1,3 +1,7 @@
+<head>
+<meta name="google-site-verification" content="Wm7593Kl60R07nQhNuDvNGFhQxBBCn8bP9Oz5m2iAHU" />
+</head>
+
 # Quick Info
 
 For any questions not answered here, join the xepher arcade discord and ask in the #warhammer channel. [https://discord.gg/xepherarcade](https://discord.gg/xepherarcade)
