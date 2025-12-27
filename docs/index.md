@@ -4,7 +4,7 @@
 
 # Quick Info
 
-For any questions not answered here, join the xepher arcade discord and ask in the #warhammer channel. [https://discord.gg/xepherarcade](https://discord.gg/xepherarcade)
+For any questions not answered here, join the xepher arcade discord and ask in the #warhammer channel. [https://discord.gg/ZYPxwpxvcK](https://discord.gg/ZYPxwpxvcK)
 
 ## I'm new, where do I start?
 
