@@ -1,11 +1,11 @@
 # Warcry
 
-- **Scheduling**: Every Sunday 4-8pm
-- **Playstyle**: 1000pts matched play or narrative play with Xepher campaign warbands
+- **Scheduling**: Every Sunday 4:30-8pm
+- **Playstyle**: 1000pts matched play, usually in accordance with an active matched play league. See the events section of this site for more details.
 
 ## Useful Resources
 
-- [discord.gg/xepherarcade](https://discord.gg/xepherarcade): The Xepher Arcade discord
+- [discord.gg/xepherarcade](https://discord.gg/ZYPxwpxvcK): The Xepher Arcade discord
 - [Warcrier.net](https://warcrier.net): Rules and list builder
 - [Warcry matched play battlepack](https://assets.warhammer-community.com/eng_05-11_warcry_matched_play_battlepack-b83zcegpsg-e7zhpxwiut.pdf): The official matched play rules and battleplans
 - [Tidal Pack 2 Mission Pack](https://docs.google.com/spreadsheets/d/1ImCp-sf2Uz_TbZ6CB4HRozURePqr0WBaT_DUDcOQbGg/edit?gid=780513126#gid=780513126): A mission pack designed for fun and balanced games
